@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Интересные факты</string>
+    <string name="search_title">Поиск</string>
+
+    <string name="menu_item_video">Факты</string>
+    <string name="view_navigation_open">Открыть</string>
+    <string name="view_navigation_close">Закрыть</string>
+
+
+    <string name="tab_item_image">Факты</string>
+    <string name="tab_item_video">Видео</string>
+    <string name="tab_item_category">Категории</string>
+</resources>
